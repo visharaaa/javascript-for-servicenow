@@ -1,4 +1,3 @@
-```javascript
 // Basic if statement
 
 let age = 22;
@@ -73,4 +72,4 @@ if (!isAdmin) {
 let status = isActive ? "Active" : "Inactive";
 
 console.log(status);
-```
+
