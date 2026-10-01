@@ -73,3 +73,21 @@ const square = number => number * number;
 
 console.log(square(5));
 
+
+// Practice: calculate an incident priority
+
+function calculatePriority(impact, urgency) {
+    if (impact === 1 && urgency === 1) {
+        return 1;
+    }
+
+    if (impact === 1 || urgency === 1) {
+        return 2;
+    }
+
+    return 3;
+}
+
+let priority = calculatePriority(1, 1);
+
+console.log(`Priority: ${priority}`);
