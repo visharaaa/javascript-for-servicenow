@@ -9,6 +9,4 @@ My JavaScript learning notes and practice code, focused on building the fundamen
 * ServiceNow-specific scripting concepts
 * Notes from my learning
 
-## Goal
 
-Build a solid JavaScript foundation and gradually connect it to ServiceNow development.
